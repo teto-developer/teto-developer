@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there! 👋 I'm **teto**
 
-<!--
-**teto-developer/teto-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Student / Developer**  
+🌱 Learning and experimenting with various tech (e.g., Swift, Web, mobile, etc.)  
+💡 Interested in clean code, fun projects, and continuous improvement.
 
-Here are some ideas to get you started:
+### 📌 What I do  
+- Build small tools & web apps  
+- Share code to learn together  
+- Explore GitHub open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cheers! 😄
+
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓ My favorite videos ↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+[![メズマライザー / 初音ミク・重音テトSV](https://img.youtube.com/vi/19y8YTbvri8/0.jpg)](https://youtu.be/19y8YTbvri8)
